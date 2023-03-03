@@ -43,5 +43,8 @@ ul.posts li {
 }
 #headerbar{
     background-color: grey;
+     height: 50px;
+     font-weight: bold;
+     padding: 5px; }
 }
 
