@@ -1,14 +1,14 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: aliceblue;
+    background-color: rgb(234, 235, 236);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: rgb(195, 241, 241);
+    background-color: rgb(239, 217, 243);
 }
 nav ul li, footer ul li {
     display: inline;
@@ -28,7 +28,7 @@ h1 {
     
 }
 h2 {
-    background-color: rgb(195, 241, 241);
+    background-color: rgb(239, 217, 243);
 }
 p {
     font-size: 1.5em;
